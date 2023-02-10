@@ -1,4 +1,4 @@
-import {Box, Container, Heading, ListItem, Text, UnorderedList} from "@chakra-ui/react";
+import {Box, Container, Heading,  Text} from "@chakra-ui/react";
 import React from "react";
 import {useTranslation} from "react-i18next";
 

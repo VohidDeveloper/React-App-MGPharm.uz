@@ -2,22 +2,16 @@ import {
   Box,
   Container,
   Flex,
-  Icon,
-  Image,
   Img,
   Link,
-  ListItem,
   Stack,
   UnorderedList,
   useMediaQuery,
-  VStack,
 } from "@chakra-ui/react";
-// import {HamburgerIcon} from "@chakra-ui/icon"
 import React from "react";
 import { useTranslation } from "react-i18next";
 import logo from "../images/logo2.png";
 import "./header.css";
-import Navs from "./Navs";
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {

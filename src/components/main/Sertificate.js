@@ -1,16 +1,13 @@
 import React from 'react';
-import {Box, Container, Flex, Heading, Image, Link, Text, useMediaQuery} from "@chakra-ui/react";
+import {Box, Container, Flex, Heading, Image, Link, useMediaQuery} from "@chakra-ui/react";
 import sert1 from "../images/sertificate1.jpg"
 import sert2 from "../images/sertificate3.jpg"
 import sert3 from "../images/sertificate2.jpg"
 import sert4 from "../images/sertificate4.JPG"
-import sert5 from "../images/sertificate4.JPG"
-import hisay from "../images/hiSay.jpg";
 import pdf1 from "../pdf/pdf1.PDF"
 import pdf2 from "../pdf/pdf2.pdf"
 import pdf3 from "../pdf/pdf3.pdf"
 import pdf4 from "../pdf/pdf4.pdf"
-import pdf5 from "../pdf/pdf5.pdf"
 import {useTranslation} from "react-i18next";
 
 const sertificate = [
