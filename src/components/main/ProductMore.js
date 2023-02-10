@@ -38,7 +38,7 @@ const ProductMore = ({ item }) => {
         textAlign={"center"}
         fontWeight="bold"
       >
-        {item.price + " " + "UZS"}
+        {item.price + " UZS"}
       </Text>
       <Link
         to={`/product/${item.id}`}

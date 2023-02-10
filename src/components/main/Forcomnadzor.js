@@ -54,7 +54,7 @@ const Forcomnadzor = () => {
   return (
     <>
       <Container maxW={"7xl"} py={"20px"}>
-        <Stack>
+        <Stack position={"relative"}>
           <Box p={"30px 0"}>
             <Text textAlign={"justify"}>
               {t("navbar.farmakomn.farmotext")} <br />
@@ -70,21 +70,20 @@ const Forcomnadzor = () => {
             </Heading>
             <Form
               onSubmit={handleSubmit}
-              style={{ zIndex: "-5" }}
+              style={{ zIndex: "1", position: "relative" }}
               w={isNotSmallerScreen ? "100%" : "100%"}
             >
-              <Form.Group className="mb-3 " controlId="formBasicEmail">
+              <Form.Group className="mb-3" style={{position: "relative"}} controlId="formBasicEmail">
                 <Form.Label style={{ display: "block", textAlign: "start" }}>
                   {t("navbar.farmakomn.fio")}
                 </Form.Label>
                 <FloatingLabel
                   controlId={"name"}
-                  style={{ zIndex: "-6" }}
                   label={t("navbar.farmakomn.fio")}
                 >
                   <Form.Control
                     type="text"
-                    style={{ zIndex: "-6" }}
+                    style={{ zIndex: "1" }}
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                     placeholder={t("navbar.farmakomn.fio")}
@@ -96,7 +95,6 @@ const Forcomnadzor = () => {
                   {t("navbar.farmakomn.call")}
                 </Form.Label>
                 <FloatingLabel
-                  style={{ zIndex: "-6" }}
                   controlId="floatingTextarea"
                   label={t("navbar.farmakomn.call")}
                 >
@@ -116,7 +114,6 @@ const Forcomnadzor = () => {
                 <FloatingLabel
                   controlId="floatingTextarea2"
                   label={t("navbar.farmakomn.problem")}
-                  style={{ zIndex: "-6" }}
                 >
                   <Form.Control
                     as="textarea"

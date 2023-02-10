@@ -65,5 +65,6 @@ li a:hover {
         position: sticky;
         top: 0;
         width: 100%;
+        z-index: 6666;
     }
 }

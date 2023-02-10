@@ -5,14 +5,12 @@ import {
   Link,
   Stack,
   Text,
-  useColorMode,
   useMediaQuery,
 } from "@chakra-ui/react";
 import React, {useEffect, useState} from "react";
 import "../header/header.css";
 import { BiPhoneCall } from "react-icons/bi";
 import HeadSearch from "../input/HeadSearch";
-import { useTranslation } from "react-i18next";
 import cookie from "js-cookie";
 import i18next from "i18next";
 
@@ -35,11 +33,7 @@ const nav = [
 ];
 
 const TopHeader = () => {
-  const { colorMode, toggleColorMode } = useColorMode();
-  const { t } = useTranslation();
   const currentLanguageCode = cookie.get("i18next") || "en";
-  const currentLanguage = nav.find((l) => l.code === currentLanguageCode);
-  const isDark = colorMode === "dark";
   const [isNotSmallerScreen] = useMediaQuery("(min-width: 600px)");
   const [language, setLanguage] = useState();
   // const language_change = (e) => {
@@ -108,9 +102,6 @@ const TopHeader = () => {
                 <HeadSearch />
                 
               </Box>
-              {/* <Box ml={'20px'}>
-                      <IconButton  icon={isDark? <FaSun/> : <FaMoon/>} onClick={toggleColorMode} isRound='true'/>
-                    </Box> */}
             </Box>
           </Flex>
         </Container>

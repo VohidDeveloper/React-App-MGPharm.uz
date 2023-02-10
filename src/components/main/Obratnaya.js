@@ -51,7 +51,7 @@ const Obratnaya = () => {
   return (
     <>
       <Container maxW={"7xl"} p={"40px 0"}>
-        <Stack>
+        <Stack position={"relative"}>
           {/*<Box p={'30px 0'}>*/}
           {/*    <Text textAlign={"justify"}>*/}
           {/*        <b>"Marjon Global Pharm"</b> MChJ farmatsevtika bozorining mas'uliyatli ishtirokchisi sifatida o'z mahsulotlari sifati va iste'molchilar salomatligi haqida qayg'uradi. Kompaniya ishlab chiqarilgan dori vositalarining xavfsizligi bilan shug'ullanadigan Farmakologik nazorat tizimini joriy qildi va boshqaradi. GVP talablariga muvofiq, kompaniya nojo'ya ta'sirlar va dori vositalarining o'zaro ta'siri to'g'risida ma'lumot to'playdi va tahlil qiladi va davlat nazorat organlari bilan faol hamkorlik qiladi. <b>"Marjon Global Pharm"</b> tomonidan ishlab chiqarilgan dori vositalaridan foydalanish bilan bog'liq barcha muammolar (ko'zda tutilmagan, kiruvchi reaktsiya yoki dori vositasidan foydalanishdan keyin kutilayotgan terapevtik ta'sirning yo'qligi), iste'molchi nojo'ya reaktsiyalar haqida xabar berish uchun elektron shaklni yuklab olish va to'ldirish orqali xabar berishi mumkin. / ushbu sahifada dorivor mahsulotning samarasizligi va bizga pochta yoki faks orqali yuboring: +998 93 306-25-25*/}
@@ -63,18 +63,26 @@ const Obratnaya = () => {
             borderRadius={"10px"}
             width={isNotSmallerScreen ? "60%" : "90%"}
             border={"2px solid #E1E1E1"}
+            position={"relative"}
           >
             <Heading as={"h5"} m="10px 0px" color={"#1D262B"}>
               {t("obratnaya.title")}
             </Heading>
-            <Form onSubmit={handleSubmit} style={{ zIndex: "1" }}>
-              <Form.Group className="mb-3 " controlId="formBasicEmail">
+            <Form
+              onSubmit={handleSubmit}
+              style={{ position: "relative" }}
+            >
+              <Form.Group
+                className="mb-3 "
+                style={{ position: "inherit" }}
+                controlId="formBasicEmail"
+              >
                 <Form.Label style={{ display: "block", textAlign: "start" }}>
                   {t("obratnaya.fio")}
                 </Form.Label>
                 <FloatingLabel
                   controlId={"name"}
-                  style={{ zIndex: "-6" }}
+                  // style={{ zIndex: "-6" }}
                   label={t("obratnaya.fio")}
                 >
                   <Form.Control
@@ -90,7 +98,7 @@ const Obratnaya = () => {
                   {t("obratnaya.call")}
                 </Form.Label>
                 <FloatingLabel
-                  style={{ zIndex: "-6" }}
+                  // style={{ zIndex: "-6" }}
                   controlId="floatingTextarea"
                   label={t("obratnaya.call")}
                 >
@@ -107,7 +115,7 @@ const Obratnaya = () => {
                   {t("obratnaya.problem")}
                 </Form.Label>
                 <FloatingLabel
-                  style={{ zIndex: "-6" }}
+                  // style={{ zIndex: "-6" }}
                   controlId="floatingTextarea2"
                   label={t("obratnaya.problem")}
                 >

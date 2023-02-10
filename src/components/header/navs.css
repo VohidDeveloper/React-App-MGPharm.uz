@@ -103,7 +103,8 @@ body {
         position: fixed;
         top: 120px;
         right: 0;
-        z-index: 555555;
+        z-index: -2;
+        border: 1px solid red;
     }
 
     .nav-elements ul {

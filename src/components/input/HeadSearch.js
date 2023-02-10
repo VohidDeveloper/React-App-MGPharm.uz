@@ -14,7 +14,7 @@ const HeadSearch = () => {
 
   useEffect(() => {
     getData();
-  }, [search]);
+  }, []);
 
   const getData = () => {
     axios
