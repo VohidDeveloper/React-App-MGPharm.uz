@@ -1,0 +1,94 @@
+{
+    "say-hi": "salom",
+    "placeholder" : "Qidiruv...",
+    "navbar" : {
+        "oNas" : "Biz haqimizda",
+        "preparad": "Dorilar",
+        "produksiya": {
+            "title" : "Mahsulotlar",
+            "badi" : "Biologik faol moddalar",
+            "substansi" : "Moddalar",
+            "badRowOne": "\"Marjon Global MCHJ\" biologik faol moddalar ishlab chiqarish bilan shug'ullanadi va bizning rasmiy veb-saytimizda siz biologik faol moddalarni ommaviy ravishda xarid qilishingiz mumkin. Ishlab chiqarish benuqson sifati bilan ajralib turadi va barcha belgilangan standartlarga to'liq mos keladi. Biz hamkorlarimiz uchun qulay shart-sharoitlarni taklif qilishga tayyormiz. Bizning farmatsevtika distribyutorimiz bo'lish orqali siz O'zbekistonda ishlab chiqarilgan biologik faol moddalarini O'zbekistonning istalgan nuqtasiga yetkazib berish bilan arzon narxlarda xarid qilishingiz mumkin bo'ladi.",
+            "imgTitle": "“Marjon Global MCHJ” rasmiy saytida biologik faol moddalarining turlari",
+            "badRowTwo": "Biologik faol qo'shimchalarni ishlab chiqarish kompaniyamiz faoliyatining asosiy yo'nalishlaridan biri bo'lib, biz bu borada mustahkam tajriba to'plaganmiz. Bizning ixtiyorimizda eng zamonaviy asbob-uskunalar va biotexnologiya sohasidagi eng so'nggi ishlanmalar mavjud bo'lib, bu bizga inson organizmidagi energiyani to'ldirishga yordam beradigan yuqori sifatli parhez qo'shimchalarini ishlab chiqarish imkonini beradi.",
+            "ulTitle" : "",
+            "liOne": "",
+            "liTwo": "",
+            "liThree": "",
+            "uNas" : "У нас вы можете приобрести средства, которые будут полезны как для детей, так и для взрослых. Перед началом приема БАДов рекомендуется проконсультироваться с врачом.",
+            "subsMore": "An'anaviy tibbiyot uzoq vaqt davomida dorivor o'simliklardan foydalangan. Asta-sekin, shifokorlar kelajakdagi dorivor formulalar uchun xom ashyoni etishtirish, o'simliklarni etishtirish sharoitlarini nazorat qilish va optimal rejimni ta'minlash yaxshiroq degan xulosaga kelishdi. Mevalar, poyalar, barglar, ildizlar ishlatilgan - dastlab minimal ishlov berilgan. Texnologiyaning rivojlanishi xom ashyodan eng qimmatli moddalarni ajratib olish imkonini berdi. “Marjon Global MCHJ”  mas’uliyati cheklangan jamiyati yetkazib berilayotgan yakuniy mahsulot, shuningdek, alohida nazorat ostida yetishtirilgan o‘simliklardan olinadigan xomashyo sifatiga kafolat beradi."
+
+        },
+        "contract": "Shartnoma ishlab chiqarish",
+        "contract": {
+            "title" : "Shartnoma asosida ishlab chiqarish",
+            "name" : "Shartnoma ishlab chiqarish",
+            "text" : "Bizning rejalarimiz saytni “Marjon Global MCHJ” tarixi va rivojlanish istiqbollarini yetkazish imkonini beruvchi mijozlar va hamkorlarimiz bilan aloqani davom ettirish elementlaridan biriga aylantirishdan iborat.",
+            "rowTwo": "Biz uchun asosiy narsa - mijozlarimizning hurmati. Rahbariyat va jamoaning asosiy maqsadi biz bilan hamkorlikning dastlabki tajribasi barqaror o‘zaro manfaatli sheriklik, do‘stlik va ishonchga aylanib borishi uchun ishlashdir.\n\nBiz hamkor kompaniyalarimizning maqsadlarini qabul qilamiz va ularning qadriyatlarini hurmat qilamiz.",
+            "rowThree": "Biz o'z ishimizni qanday qilishni bilamiz, biz o'z nomimizni qadrlaymiz va mahsulotimizning yuqori sifatini kafolatlaymiz.",
+            "rowFour": "",
+            "rowFive": "Xom ashyo va ishlab chiqarish jarayonini puxta nazorat qilish bugun bizda ishlab chiqarilayotgan dori vositalari va mahsulotlar zamonaviy farmatsevtika ishlab chiqarishining eng muhim talablariga – xavfsizlik, yuqori sifat va samaradorlik talablariga javob beradi, deb ishonch bilan aytish imkonini beradi.",
+            "rowSix" : "Biz barcha mijozlarimiz va hamkorlarimizga samarali hamkorlik uchun minnatdorchilik bildiramiz va kelgusi yillar barchamiz uchun faol o'sish va yuqori professionallik darajasiga erishish davri bo'lishiga ishonchimiz komil.\n\nBiz siz uchun ishlaymiz va hamkorligimizni albatta o'zaro manfaatli qilamiz!"
+        },
+        "sertifikat": "Bizning sertifikatlar",
+        "sertificate" : {
+            "btn": "Yuklab olish"
+        },
+        "zavodFoto" : "Zavod rasmlari",
+        "farmokom" : "Farmakologik nazorat",
+        "farmakomn" : {
+            "fomacoTitle": "Marjon Global Pharm",
+            "farmotext": "Hurmatli tashrif buyuruvchilar! “Marjon Global MCHJ” kompaniya dori vositalari ishlab chiqaradigan nojo'ya hodisalarni kuzatib boradi. Siz veb-saytda nojo'ya hodisa dori ro'yxatga olish shaklini to'ldirishingiz mumkin. Sizning ma'lumotlaringiz sabablarini tahlil qilish va aniqlashtirish uchun avtomatik ravishda farmakologik nazorat xizmatiga yuboriladi.",
+            "title": "Iste'molchi shaklini to'ldiring",
+            "fio": "F.I.O",
+            "call": "Telefon raqam",
+            "problem" : "Muammolaringizni kiriting",
+            "btn": "Yuborish"
+        },
+        "svyaz" : "Biz bilan aloqa"
+    },
+    "mainNas": {
+        "title":"Biz haqimizda",
+        "name": "Bizning maqsadimiz",
+        "text" : "Kompaniyamizning maqsadi va faoliyati tabiat in’omlaridan unumli foydalanish, o‘simlik materiallaridan, birinchi navbatda serquyosh O‘zbekistondan olingan biologik faol moddalarni keng ommalashtirishga qaratilgan. Tanlangan yo'l tufayli har kuni biz zamonaviy tibbiyotni yanada tabiiy tabiatga yaqinlashtirishga harakat qilamiz.",
+        "button": "Ko'proq",
+        "moreNas": "2015-yildan buyon MARJON GLOBAL farmatsevtika kompaniyasi O‘zbekistonning yetakchi laboratoriyalari bilan hamkorlikda ishlab chiqilgan zamonaviy bioterapiyaning yuqori samarali mahsulotlarini O‘zbekiston bozoriga muvaffaqiyatli taqdim etib kelmoqda. MARJON GLOBAL 20 dan ortiq yangi avlod o'simlik va probiyotik biokomplekslarini sotadi, ular har qanday yoshdagi iste'molchimizga kuch va quvvatga to'la va hayot lazzatini his qilishiga yordam beradi.\nBizning vazifamiz- salomatlikka g'amxo'rlik qilish va hayot sifatini yaxshilash. Umid qilamizki, o'z sog'lig'iga qanday g'amxo'rlik qilishni xohlaydigan va biladiganlar ko'payadi.\nMARJON GLOBAL o'z mijozlariga o'zlarini yaxshi his qilishlari va yanada yaxshi ko'rinishi uchun qo'lidan kelganini qiladi!\nBizning ustuvorliklarimiz:\n•\tIshlab chiqarish sifati\nMARJON GLOBAL mahsulotlari O'zbekistonda ishlab chiqariladi. Biokomplekslarni ishlab chiqarish texnologiyasi va shartlari farmatsevtika sanoatida eng yuqori sifat standartlariga javob beradi.\n\n•\tMahsulot sifati\nMARJON GLOBAL preparatlari tabiiy biologik faol moddalar: vitaminlar, minerallar va optimal dozalarda va kombinatsiyalarda tanlangan dorivor o'simliklarning ekstraktlariga asoslangan. MARJON GLOBAL mahsulotlari UZB hududida klinik va laboratoriya tekshiruvlaridan oʻtgan va Oʻzbekistonning yetakchi ilmiy va tibbiyot muassasalari tomonidan foydalanish uchun tavsiya etilgan.\n\n•\tYuqori darajadagi xizmat\nMARJON GLOBAL mahsulotlarining tarkibi, ta'sir qilish mexanizmi, ko'rsatmalari, kontrendikatsiyasi va foydalanish usuli haqida to'liq ma'lumotni veb-saytimizda olishingiz mumkin, shuningdek, ishonch telefoniga qo'ng'iroq qilib kompaniya maslahatchisiga o'z savolingizni berishingiz mumkin.\n",
+        "rowOne": "2015-yildan buyon MARJON GLOBAL farmatsevtika kompaniyasi O‘zbekistonning yetakchi laboratoriyalari bilan hamkorlikda ishlab chiqilgan zamonaviy bioterapiyaning yuqori samarali mahsulotlarini O‘zbekiston bozoriga muvaffaqiyatli taqdim etib kelmoqda. MARJON GLOBAL 20 dan ortiq yangi avlod o'simlik va probiyotik biokomplekslarini sotadi, ular har qanday yoshdagi iste'molchimizga kuch va quvvatga to'la va hayot lazzatini his qilishiga yordam beradi.",
+        "mission": "Bizning vazifamiz",
+        "missionText": "sog'lig'iga g'amxo'rlik qilish va hayot sifatini yaxshilash. Umid qilamizki, o'z sog'lig'iga qanday g'amxo'rlik qilishni xohlaydigan va biladiganlar ko'payadi.",
+        "rowTwo": "MARJON GLOBAL o'z mijozlariga o'zlarini yaxshi his qilishlari va yanada yaxshi ko'rinishi uchun qo'lidan kelganini qiladi!",
+        "nash" : "Bizning ustuvorliklarimiz:",
+        "liOne": {
+            "title": "•\t Ishlab chiqarish sifati",
+            "text": "MARJON GLOBAL mahsulotlari O'zbekistonda ishlab chiqariladi. Biokomplekslarni ishlab chiqarish texnologiyasi va shartlari farmatsevtika sanoatida eng yuqori sifat standartlariga javob beradi."
+        },
+        "liTwo": {
+            "title": "•\t Mahsulot sifati",
+            "text": "MARJON GLOBAL preparatlari tabiiy biologik faol moddalar: vitaminlar, minerallar va optimal dozalarda va kombinatsiyalarda tanlangan dorivor o'simliklarning ekstraktlariga asoslangan. MARJON GLOBAL mahsulotlari UZB hududida klinik va laboratoriya tekshiruvlaridan oʻtgan va Oʻzbekistonning yetakchi ilmiy va tibbiyot muassasalari tomonidan foydalanish uchun tavsiya etilgan."
+        },
+        "liThree": {
+            "title": "•\t Yuqori darajadagi xizmat",
+            "text": "MARJON GLOBAL mahsulotlarining tarkibi, ta'sir qilish mexanizmi, ko'rsatmalari va foydalanish usuli haqida to'liq ma'lumotni veb-saytimizda olishingiz mumkin, shuningdek, ishonch telefoniga qo'ng'iroq qilib kompaniya maslahatchisiga o'z savolingizni berishingiz mumkin."
+        }
+    },
+    "preparad": {
+        "title": "Bizning dorilar",
+        "btn" : "Ko'proq"
+    },
+    "provide" : {
+        "title" : "Telegram botimiz orqali dori-darmonlarga buyurtma bering.",
+        "btn" : "Buyurtma bering"
+    },
+    "obratnaya": {
+        "title": "Biz bilan aloqa",
+        "fio": "F.I.O",
+        "call": "Telefon raqam",
+        "problem" : "Muammolaringizni kiriting.",
+        "btn": "Yuborish"
+    },
+    "footer" : {
+        "locate" : "O‘zbekiston Respublikasi, 130400, Jizzax, G‘allaoral",
+        "email" : "info@marjonglobalpharm.uz",
+        "foot" : "Mualliflik huquqi © 2023 Marjon Global Pharm - Barcha huquqlar himoyalangan."
+    }
+}

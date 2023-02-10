@@ -1,0 +1,161 @@
+
+.carousel {
+    z-index: -1;
+}
+.carousel-item {
+    height: 570px;
+    padding: 0 0px;
+    z-index: 1;
+    position: inherit;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.btn-slide {
+    color: #000;
+}
+
+.carousel-captions {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    padding: 10px;
+}
+
+.carousel-captions .left-side {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-captions .left-side .text {
+    width: 100%;
+    height: 100%;
+    padding: 40px 80px;
+    font-weight: bold;
+}
+
+.carousel-captions .right-side {
+    width: 50%;
+
+}
+
+.carousel-indicators {
+    z-index: 1;
+}
+
+.carousel-captions .right-side img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+@media (min-width:992px) and (max-width: 1300px) {
+    .carousel-item {
+        height: 400px;
+        padding: 0 0px;
+
+    }
+
+    .carousel-item img {
+        height: 100%;
+        object-fit: cover;
+
+    }
+
+    .btn-slide {
+        color: #000;
+    }
+
+    .carousel-inner {
+        height: 400px;
+        background-image: none;
+    }
+
+    .carousel-captions {
+        width: 100%;
+        height: 80%;
+        display: flex;
+        padding: 10px;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .carousel-inner {
+        min-height: 10vh;
+        margin-top: 0px;
+        background-image: none;
+        padding: 0px;
+    }
+
+    .carousel-item {
+        height: 450px;
+    }
+
+    .carousel-captions {
+        width: 100%;
+        min-height: 10vh;
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 200px 200px;
+        padding: 10px;
+    }
+
+}
+
+@media(max-width:767px) {
+    .carousel-inner {
+        min-height: 20vh;
+        margin-top: 0px;
+        background-image: none;
+        padding: 0 0px;
+    }
+
+    .carousel-item {
+        height: 350px;
+    }
+
+    .carousel-captions {
+        width: 100%;
+        min-height: 50vh;
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 200px 200px;
+        padding: 0px;
+    }
+}
+
+@media (max-width: 576px) {
+    .carousel-inner {
+        min-height: 10vh;
+        margin-top: 0px;
+        background-image: none;
+        padding: 0 0px;
+    }
+
+    .carousel-item {
+        height: 300px;
+    }
+
+    .carousel-item img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .carousel-captions {
+        width: 100%;
+        min-height: 10vh;
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 200px 200px;
+        padding: 10px;
+    }
+
+}

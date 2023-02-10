@@ -1,0 +1,96 @@
+{
+    "say-hi": "Hello",
+    "placeholder" : "Search...",
+    "navbar" : {
+        "oNas" : "About Us",
+        "preparad": "Medicines",
+        "produksiya" : {
+            "title" : "Products",
+            "badi" : "Dietary supplements",
+            "substansi": "Substances",
+            "badRowOne": "Marjon Global is engaged in the production of dietary supplements, and on our official website you can buy dietary supplements in bulk. Let out production differs in faultless quality and completely conforms to all established standards. We are ready to offer favorable conditions for our partners. By becoming our pharmaceutical distributor, you will be able to purchase Uzbekistan-made dietary supplements at low purchase prices with delivery anywhere in Uzbekistan.",
+            "imgTitle": "Types of dietary supplements on the official website of Marjon Global  OJSC",
+            "badRowTwo": "The production of dietary supplements is one of the main activities of our company, and we have accumulated solid experience in this area. We have at our disposal the most modern equipment and the latest developments in the field of biotechnology, which allows us to produce high-quality dietary supplements that help replenish energy in the human body.",
+            "ulTitle" : "On our official website, dietary supplements of our own production of the following types are presented:",
+            "liOne": "•\t Herbal. The basis of the preparations is herbal preparations. Products are considered as natural as possible, do not contain toxins and have a mild effect on the body.",
+            "liTwo": "•\t Vitamins. They are rich in useful trace elements and serve to restore balance in the human body. On our official website, the assortment includes vitamin complexes of our own production, the intake of which is indicated to improve overall well-being and strengthen immunity.",
+            "liThree": "•\t Mineral complexes. Designed to replenish the substances necessary for normal human life. On the official website of JSC \"Marjon Global\" you can wholesale dietary supplements, which include both vitamins and minerals - vitamin-mineral complexes.",
+            "uNas" : "Here you can purchase products that will be useful for both children and adults. Before you start taking dietary supplements, it is recommended to consult with your doctor.",
+            "subsMore": "Traditional medicine has been using medicinal plants for a long time. Gradually, doctors came to the conclusion that it is better to grow raw materials for future medicinal formulations, controlling the conditions for growing plants and providing an optimal regimen. Fruits, stems, leaves, roots were used - initially subjected to minimal processing. The development of technology has made it possible to extract the most valuable substances from raw materials. So there were hoods and extracts. Marjon Global Ltd. guarantees the quality of the delivered final product, as well as raw materials from plants grown under special control."
+
+        },
+        "contract": "Contract manufacturing",
+        "contract": {
+            "title" : "Contract manufacturing",
+            "name" : "Contract manufacturing",
+            "text" : "Our plans are to make the site become one of the elements of maintaining communication with our customers and partners, allowing us to convey the history and development prospects of Marjon Global Pharm OJSC.",
+            "rowTwo": "The main thing for us is the respect of our customers. The main goal of the management and the team is to work in such a way that the first experience of cooperation with us develops into a stable mutually beneficial partnership, friendship, and trust.\n\nWe accept the goals of our partner companies and respect their values.",
+            "rowThree": "We know how to do our job, we value our name and guarantee the high quality of our products.",
+            "rowFour": "You and I have a common goal - to work in successful and dynamically developing companies that quickly respond to the requirements of the modern market.",
+            "rowFive": "Careful control of raw materials and the production process allows us to say with confidence today that the drugs and products manufactured by us meet the most important requirements of modern pharmaceutical production - safety, high quality and efficiency.",
+            "rowSix" : "We thank all our clients and partners for fruitful cooperation and we are confident that the coming years will become a period of active growth and achievement of a high level of professionalism for all of us.\n\nWe work for you and will definitely make our cooperation mutually beneficial!"
+        },
+        "sertifikat": "Our certificates",
+        "sertificate" : {
+            "btn": "Download"
+        },
+        "zavodFoto" : "Pictures of the plant",
+        "farmokom" : "Pharmacological control",
+        "farmakomn" : {
+            "fomacoTitle": "Marjon Global Pharm",
+            "farmotext": "As a responsible participant of the pharmaceutical market, LLC cares about the quality of its products and the health of consumers. The company has implemented and manages the Pharmacological Control System, which deals with the safety of manufactured drugs. The company collects and analyzes information on side effects and drug interactions and actively cooperates with government regulatory authorities.",
+            "farmotextTwo": "all problems related to the use of drugs produced by and can report by filling. Ineffectiveness of the medicinal product on this page and send it to us by mail or fax: +998 93 306-25-25",
+            "title": "Fill out the consumer form",
+            "fio": "F.I.O",
+            "call": "Phone number",
+            "problem" : "Enter your problems.",
+            "btn": "Submit"
+        },
+        "svyaz" : "Feedback"
+    },
+    "mainNas": {
+        "title":"About Us",
+        "name": "Our goal",
+        "text" : "The purpose and activities of our company are aimed at the effective use of nature's gifts, the wide popularization of biologically active substances obtained from plant materials, first of all from lush Uzbekistan. Thanks to the chosen path, every day we try to bring modern medicine closer to natural nature.",
+        "button": "More",
+        "moreNas": "Since 2015, the pharmaceutical company MARJON GLOBAL has been successfully providing the market of Uzbekistan with highly effective products of modern biotherapy developed in cooperation with leading laboratories of Uzbekistan. MARJON GLOBAL sells more than 20 new generation herbal and probiotic biocomplexes that help our consumers of all ages feel full of strength and energy and enjoy life.\nOur mission- to take care of health and improve the quality of life. We hope that there will be more people who want and know how to take care of their health.\nMARJON GLOBAL goes above and beyond to help its customers feel better and look better!\nOur priorities are:\n•\tProduction quality\nMARJON GLOBAL products are produced in Uzbekistan. The production technology and conditions of biocomplexes meet the highest quality standards in the pharmaceutical industry.\n\n•\tProduct quality\nMARJON GLOBAL preparations are based on natural biologically active substances: vitamins, minerals and extracts of selected medicinal plants in optimal doses and combinations. MARJON GLOBAL products have passed clinical and laboratory tests in the territory of UZB and are recommended for use by leading scientific and medical institutions of Uzbekistan.\n\n•\tHigh level of service\nYou can get complete information about the composition, mechanism of action, instructions, contraindications and method of use of MARJON GLOBAL products on our website, and you can also call the hotline and ask your question to the company consultant.\n",
+        "rowOne": "Since 2015, the pharmaceutical company MARJON GLOBAL has been successfully presenting on the Uzbek market highly effective products of modern biotherapy, developed jointly with leading laboratories of Uzbekistan. MARJON GLOBAL sells more than 20 plant and probiotic bio-complexes of a new generation, which help our consumer at any age to be full of strength and energy and feel the taste for life.",
+        "mission": "Our mission",
+        "missionText": "care for health and improving the quality of life. We really hope that there will be more people who want and know how to take care of their health.",
+        "rowTwo": "MARJON GLOBAL will do its best to help its customers feel good and look even better!",
+        "nash" : "Our priorities:",
+        "liOne": {
+            "title": "•\t Production quality",
+            "text": "MARJON GLOBAL products are manufactured in Uzbekistan. The technology and conditions for the production of biocomplexes meet the highest quality standards in the pharmaceutical industry."
+        },
+        "liTwo": {
+            "title": "•\t Product quality",
+            "text": "MARJON GLOBAL preparations are based on natural biologically active substances: vitamins, minerals and extracts of medicinal plants, selected in optimal dosages and combinations. MARJON GLOBAL products have passed clinical and laboratory studies on the territory of UZB and are recommended for use by leading scientific and medical institutions of Uzbekistan."
+        },
+        "liThree": {
+            "title": "•\t High level of service",
+            "text": "You can get comprehensive information about the composition, mechanism of action, indications, contraindications and method of using MARJON GLOBAL products on our website, as well as by asking your question to the company's consultant by calling the hotline."
+        }
+    },
+    "preparad": {
+        "title": "Our Medicines",
+        "btn" : "More"
+    },
+    "provide" : {
+        "title" : "Order medicines through our Telegram bot.",
+        "btn": "Place an order"
+    },
+    "obratnaya": {
+        "title": "Feedback",
+        "fio": "F.I.O",
+        "call": "Phone number",
+        "problem" : "Enter your problems.",
+        "btn": "Submit"
+    },
+    "footer" : {
+        "locate" : "5R9V+R74, Unnamed Road, Jizzakh, Oʻzbekiston",
+        "email" : "info@marjonglobalpharm.uz",
+        "foot" :"Copyright © 2022 Marjon Global Pharm - All Rights Reserved."
+    }
+
+}
