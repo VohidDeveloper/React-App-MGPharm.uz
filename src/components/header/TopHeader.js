@@ -71,7 +71,7 @@ const TopHeader = () => {
             >
               <BiPhoneCall color="#2C313C" />
               <Text ml={"2"} color="#CF95D9">
-                +998 99 416-41-12
+                +998 93 306-25-25
               </Text>
             </Box>
             <Box

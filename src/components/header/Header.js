@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import TopHeader from './TopHeader';
 import './header.css'
-import { Box, Container, Icon, useMediaQuery } from '@chakra-ui/react';
+import { Box, Container, useMediaQuery } from '@chakra-ui/react';
 // import {GiHamburgerMenu} from "react-icons/gi"
 // import IndividualIntervalsExample from './Slider';
 import Navs from "./Navs";

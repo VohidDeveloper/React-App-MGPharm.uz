@@ -1,26 +1,10 @@
-import React, { Component } from "react";
-import Slider from "react-slick";
-// import { baseUrl } from "./config";
+import React from "react";
 import slider1 from "../images/slider1.jpg";
 import slider2 from "../images/slider2.jpg";
 import slider3 from "../images/slider3.jpg";
-// import slider4 from "../images/slider4.jpg";
-import { useMediaQuery } from "@chakra-ui/react";
 import "../header/slider.css";
 
 const LazyLoad = () => {
-  const [isNotSmallerScreen] = useMediaQuery("(min-width: 600px)");
-  const settings = {
-    dots: false,
-    lazyLoad: false,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    initialSlide: 2,
-    autoplay: true,
-    arrows: false,
-  };
 
   return (
     <div
@@ -107,38 +91,3 @@ const LazyLoad = () => {
 };
 
 export default LazyLoad;
-
-// export default class LazyLoad extends Component {
-//   render() {
-//     const settings = {
-//       dots: true,
-//       lazyLoad: false,
-//       infinite: true,
-//       speed: 500,
-//       slidesToShow: 1,
-//       slidesToScroll: 1,
-//       initialSlide: 2,
-//       autoplay: true,
-//       arrows: false,
-//     };
-
-//     return (
-//       <Box minH={"50vh"} border={"1px solid red"}>
-//         <Slider {...settings}>
-//           <Box minH={"40vh"}>
-//             <Img src={slider1} h="400px" objectFit="cover" w={"100%"} />
-//           </Box>
-//           <Box minH={"30vh"}>
-//             <Img src={slider2} h="400px" objectFit="cover" w={"100%"} />
-//           </Box>
-//           <Box minH={"30vh"}>
-//             <Img src={slider3} h="400px" objectFit="cover" w={"100%"} />
-//           </Box>
-//           <Box minH={"30vh"}>
-//             <Img src={slider4} h="400px" objectFit="cover" w={"100%"} />
-//           </Box>
-//         </Slider>
-//       </Box>
-//     );
-//   }
-// }
