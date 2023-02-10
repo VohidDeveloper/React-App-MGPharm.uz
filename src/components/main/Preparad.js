@@ -7,6 +7,7 @@ import {
   Stack,
   Spinner,
   useMediaQuery,
+  Flex,
 } from "@chakra-ui/react";
 import React from "react";
 import Slider from "react-slick";
@@ -121,6 +122,7 @@ const Preparad = ({ data }) => {
             ))
           )}
         </Slider>
+        <Flex justifyContent={"center"}>
         <Link
           to={`/product`}
           className="btn btn-outline-secondary"
@@ -140,6 +142,7 @@ const Preparad = ({ data }) => {
         >
           {t("preparad.btn")}
         </Link>
+        </Flex>
       </Container>
     </Stack>
   );

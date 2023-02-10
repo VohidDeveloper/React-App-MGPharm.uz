@@ -5,7 +5,6 @@ import {
   Flex,
   Heading,
   Image,
-  Stack,
   useMediaQuery,
 } from "@chakra-ui/react";
 import React from "react";

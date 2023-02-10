@@ -1,6 +1,5 @@
 import {
   Box,
-  Button,
   Container,
   Flex,
   Heading,
@@ -8,7 +7,7 @@ import {
   Text,
   useMediaQuery,
 } from "@chakra-ui/react";
-import React, { useState } from "react";
+import React from "react";
 import image from "../images/Asthma.gif";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";

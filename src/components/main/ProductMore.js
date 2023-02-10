@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from "react";
-import {Flex, Box, Image, Text, Container, useMediaQuery} from "@chakra-ui/react";
-import { Link, useParams } from "react-router-dom";
-import axios from "axios";
-import { SEARCH_URL, URL } from "../../api/api";
+import React from "react";
+import { Box, Image, Text,  useMediaQuery} from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 
 const ProductMore = ({ item }) => {
   const [isNotSmallerScreen] = useMediaQuery("(min-width: 600px)")

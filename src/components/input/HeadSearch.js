@@ -5,14 +5,12 @@ import { useEffect } from "react";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { BiSearch } from "react-icons/bi";
-import SearchMore from "../main/SearchMore";
 
 const HeadSearch = () => {
   const { t } = useTranslation();
   const inputRef = useRef(null);
   const [data, setData] = useState([]);
   const [search, setSearch] = useState("");
-  const [updated, setUpdated] = useState(search);
 
   useEffect(() => {
     getData();

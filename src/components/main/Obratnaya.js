@@ -4,7 +4,6 @@ import {
   Container,
   Heading,
   Stack,
-  Text,
   useMediaQuery,
 } from "@chakra-ui/react";
 import { FloatingLabel, Form } from "react-bootstrap";

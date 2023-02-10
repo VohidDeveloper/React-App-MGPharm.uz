@@ -2,7 +2,6 @@ import React from 'react';
 import {Box, Container, Heading, Image, Text} from "@chakra-ui/react";
 import hisay from '../images/hiSay.jpg'
 import {useTranslation} from "react-i18next";
-import img1 from "../images/badImage.jpg";
 
 const Contractnoe = () => {
     const {t} = useTranslation()
